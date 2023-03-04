@@ -1,1 +1,2 @@
 Selenium manual testing
+automation testing
